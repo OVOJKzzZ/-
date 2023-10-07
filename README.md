@@ -9,3 +9,34 @@
 [SagerNet](https://github.com/SagerNet/SagerNet)
 
 [V2Ray Core](https://github.com/v2fly/v2ray-core)
+
+
+### DNS 
+DNS 只推荐使用加密 DNS
+国内（国内 DNS 请走直连）
+阿里 DOH
+
+````https://````
+
+阿里 DOT
+
+````•````
+
+腾讯 DOH
+
+````https://doh.pub/dns-query````
+
+腾讯 DOT
+
+````dot.pub````
+
+
+国外（国外 DNS 请走代理）
+
+Google DOH
+
+````•````
+
+Google DOT
+
+````•````
