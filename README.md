@@ -16,7 +16,7 @@
 
 
 ### DNS 
-DNS 只推荐使用加密 DNS
+DNS 请使用加密 DNS 来防止 DNS 污染
 
 ### 国内（国内 DNS 请走直连）
 阿里 DOH
