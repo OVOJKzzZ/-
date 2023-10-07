@@ -7,7 +7,7 @@
 
 
 
-### 使用的工具
+# 使用的工具
 [SagerNet](https://github.com/SagerNet/SagerNet)
 
 [V2Ray Core](https://github.com/v2fly/v2ray-core)
@@ -15,10 +15,10 @@
 
 
 
-### DNS 
+# DNS 
 DNS 请使用加密 DNS 来防止 DNS 污染
 
-### 国内（国内 DNS 请走直连）
+## 国内（国内 DNS 请走直连）
 阿里 DOH
 
 ````https://作者很懒，还没有写😭````
@@ -36,7 +36,7 @@ DNS 请使用加密 DNS 来防止 DNS 污染
 ````dot.pub````
 
 
-### 国外（国外 DNS 请走代理）
+## 国外（国外 DNS 请走代理）
 
 Google DOH
 
