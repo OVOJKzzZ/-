@@ -1,7 +1,7 @@
 🟢 GitHub 官网     
 ````github.com````
 
-🟢 GitHub release 下载 域名
+🟢 GitHub release/assets 下载 域名
 ````objects.githubusercontent.com````
 
 🟢 GitHub raw 文件 域名
