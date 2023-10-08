@@ -1,5 +1,5 @@
 GitHub 官网 ````github.com````
 
-GitHub download 域名 ````objects.githubusercontent.com````
+GitHub release 下载 域名 ````objects.githubusercontent.com````
 
-GitHub view/raw 域名 ````raw.githubusercontent.com````
+GitHub raw 文件 域名 ````raw.githubusercontent.com````
