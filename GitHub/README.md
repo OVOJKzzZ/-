@@ -15,7 +15,7 @@ raw.githubusercontent.com
 
 🟢 GitHub 博客 域名
 ```
-github.io
+*.github.io
 ```
 
 ## 使用方法
