@@ -13,7 +13,7 @@ objects.githubusercontent.com
 raw.githubusercontent.com
 ```
 
-🟢 GitHub 博客   
+🟢 GitHub 博客 域名
 ```
 github.io
 ```
