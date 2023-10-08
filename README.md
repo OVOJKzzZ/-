@@ -1,6 +1,6 @@
 # 直连计划
 
-## 讨论请在[这里]()讨论
+## 讨论请在[这里](https://github.com/OVOJKzzZ/direct/discussions)讨论
 
 1. [GitHub](https://github.com/OVOJKzzZ/direct/tree/main/GitHub)
 2. [Google Play](https://github.com/OVOJKzzZ/direct/tree/main/Google%20Play)
