@@ -2,3 +2,6 @@
 ```
 *.xn--ngstr--lar8j.com
 ```
+```
+*.xn--ngstr-lra8j.com
+```
