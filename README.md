@@ -3,7 +3,7 @@
 2. [Google Play](https://github.com/OVOJKzzZ/direct/tree/main/Google%20Play)
 3. [Twitch](https://github.com/OVOJKzzZ/direct/tree/main/Twitch)
 4. [YouTube](https://github.com/OVOJKzzZ/direct/tree/main/YouTube)
-5. 更多等你来提出/发现
+5. 更多等你来 提出/[提交](https://github.com/OVOJKzzZ/direct/issues)/发现
 
 
 
