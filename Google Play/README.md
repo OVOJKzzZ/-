@@ -1,5 +1,5 @@
 🟢 Google Play 下载应用 域名
-_*.googleapis.cn_
+> *.googleapis.cn
 ```
 *.xn--ngstr--lar8j.com
 ```
@@ -9,7 +9,7 @@ _*.googleapis.cn_
 
 
 🔴 Google Play 下载应用 域名
-  _*.googleapis.com_
+  > *.googleapis.com
 ```
 *.gvt*.com
 ```
