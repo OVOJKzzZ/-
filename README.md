@@ -8,11 +8,11 @@
 
 
 # 使用的工具
-[SagerNet](https://github.com/SagerNet/SagerNet)
+[SagerNet]或其衍生品(https://github.com/SagerNet/SagerNet)
 
-[V2Ray Core](https://github.com/v2fly/v2ray-core)
+[V2Ray Core]或其衍生品(https://github.com/v2fly/v2ray-core)
 
-[Clash Core]()
+[Clash Core]或其衍生品()
 
 
 
