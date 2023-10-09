@@ -10,6 +10,6 @@
 
 🔴 下载应用 域名
   > *.googleapis.com [？](https://github.com/OVOJKzzZ/direct/blob/main/faq/googleapis.com.md)
-```
-*.gvt*.com
-```
+
+
+ ~~*.gvt*.com~~
