@@ -1,5 +1,5 @@
 🟢 下载应用 域名
-> *.googleapis.cn [？]()
+> *.googleapis.cn [？](https://github.com/OVOJKzzZ/direct/blob/main/faq/googleapis.cn.md)
 ```
 *.xn--ngstr--lar8j.com
 ```
