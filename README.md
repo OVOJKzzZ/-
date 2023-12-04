@@ -26,19 +26,19 @@
 ⚠️***DNS 请使用加密 DNS 来防止 DNS 污染***⚠️
 
 ## 国内（国内 DNS 请走直连）
-阿里 DOH
+阿里 DOH3
 
 ```
-https://作者很懒，还没有写😭
+h3://223.5.5.5/dns-query
 ```
 
 阿里 DOT
 
-````作者很懒，还没有写😭````
+````tls://223.5.5.5````
 
-腾讯 DOH
+腾讯 DOH3
 
-````https://doh.pub/dns-query````
+````h3://doh.pub/dns-query````
 
 腾讯 DOT
 
@@ -47,13 +47,13 @@ https://作者很懒，还没有写😭
 
 ## 国外（国外 DNS 请走代理）
 
-Google DOH
+Google DOH3
 
-````作者很懒，还没有写😭````
+````h3://dns.google/dns-query````
 
 Google DOT
 
-````作者很懒，还没有写😭````
+````tls://dns.google````
 
 
 ## CloudFlare Warp 直连/优选
