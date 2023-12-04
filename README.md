@@ -49,7 +49,9 @@ h3://8.8.8.8/dns-query
 
 Google DOT
 
-````tls://8.8.8.8````
+```
+tls://8.8.8.8
+```
 
 
 ## CloudFlare Warp 直连/优选
