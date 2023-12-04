@@ -24,7 +24,7 @@ V2Ray Json
 •
 ```
 
-Clash Yaml
+sing-box Json
 ```
 •
 ````
