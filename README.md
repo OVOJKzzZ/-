@@ -36,24 +36,16 @@ h3://223.5.5.5/dns-query
 
 ````tls://223.5.5.5````
 
-腾讯 DOH3
-
-````h3://doh.pub/dns-query````
-
-腾讯 DOT
-
-````dot.pub````
-
 
 ## 国外（国外 DNS 请走代理）
 
 Google DOH3
 
-````h3://dns.google/dns-query````
+````h3://8.8.8.8/dns-query````
 
 Google DOT
 
-````tls://dns.google````
+````tls://8.8.8.8````
 
 
 ## CloudFlare Warp 直连/优选
