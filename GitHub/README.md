@@ -25,6 +25,18 @@ V2Ray Json
 ```
 
 sing-box Json
+```json
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "",
+            ],
+            "domain_suffix": [
+                "",
+            ]
+        }
+    ]
+}
 ```
-•
-````
