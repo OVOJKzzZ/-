@@ -52,13 +52,3 @@ Google DOT
 ```
 tls://8.8.8.8
 ```
-
-
-## CloudFlare Warp 直连/优选
-> CloudFlare Warp 是一个免费的 WireGuard VPN 提供源
-```
-162.159.192.187:3138
-```
-```
-•
-```
